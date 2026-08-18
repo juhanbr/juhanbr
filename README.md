@@ -1,4 +1,6 @@
-## Hi there 👋
+<h1>Ola Sou o Juhan</h1>
+
+<img width="554" height="554" alt="image" src="https://github.com/user-attachments/assets/690a06b9-f568-49e6-8bfa-a6ab05a39b56" />
 
 <!--
 **juhanbr/juhanbr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
